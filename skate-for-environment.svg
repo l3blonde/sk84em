@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 199.83 181.24">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-2 {
+        font-size: 14px;
+        stroke: #b4b4be;
+        stroke-width: .5px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        font-family: HWNuckleTrial-Bold, 'HW Nuckle Trial';
+        font-weight: 700;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        mask: url(#mask);
+      }
+
+      .cls-3 {
+        stroke: #dfdb1f;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 24px;
+      }
+
+      .cls-4 {
+        stroke: #2ed788;
+      }
+
+      .cls-8 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-9 {
+        fill: none;
+        stroke: url(#linear-gradient);
+        stroke-dasharray: 0 0 8 11;
+        stroke-opacity: .9;
+        stroke-width: 3px;
+      }
+
+      .cls-10 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-11 {
+        fill: #d9d9d9;
+        stroke-width: 0px;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <mask id="mask" x="-10.93" y="-18.47" width="260" height="260" maskUnits="userSpaceOnUse">
+      <g id="mask0_463_11356" data-name="mask0 463 11356">
+        <rect class="cls-11" x="-10.93" y="-18.47" width="260" height="260"/>
+      </g>
+    </mask>
+    <linearGradient id="linear-gradient" x1="59.28" y1="166.5" x2="1.92" y2="71.2" gradientTransform="translate(0 225.07) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".02" stop-color="#000" stop-opacity="0"/>
+      <stop offset=".67" stop-color="#000"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-7">
+    <path class="cls-9" d="m31.11,52.81c-33.7,16.27-43.04,96.72-4.65,127.25"/>
+  </g>
+  <text class="cls-2" transform="translate(44.46 12.3)"><tspan x="0" y="0">SK</tspan><tspan class="cls-8" x="18.94" y="0">A</tspan><tspan x="27.75" y="0">TE </tspan><tspan class="cls-5" x="48.76" y="0">F</tspan><tspan x="57.08" y="0">OR:</tspan></text>
+  <text class="cls-4" transform="translate(43.97 42.45)"><tspan x="0" y="0">e</tspan><tspan class="cls-6" x="14.88" y="0">n</tspan><tspan x="30.07" y="0">vi</tspan><tspan class="cls-6" x="50.42" y="0">r</tspan><tspan x="61.3" y="0">onme</tspan><tspan class="cls-1" x="130.56" y="0">n</tspan><tspan x="145.99" y="0">t</tspan></text>
+  <text/>
+  <text class="cls-3" transform="translate(43.97 74.73)"><tspan x="0" y="0">em</tspan><tspan class="cls-10" x="38.42" y="0">o</tspan><tspan class="cls-12" x="53.23" y="0">t</tspan><tspan x="62.47" y="0">ions</tspan></text>
+</svg>

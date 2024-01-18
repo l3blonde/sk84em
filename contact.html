@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="style.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com" rel="preconnect" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
+</head>
+
+<body class="OpjZF">
+
+  <!-- Sticky Navigation-->
+  <header id="myHeader">
+    <image id="logo" src="sk84em-logo-textype-black.png">
+    </image>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+        <a href="longboards.html">E-long</a>
+        <a href="community.html">Camp</a>
+      <button id="openmenu">
+        <span></span>
+        <span></span>
+      </button>
+    </nav>
+  </header>
+  <div id="page"></div>
+
+  <!--Video-->
+
+  <section class="parallax">
+    <video id="myVideo" style="opacity:1; mix-blend-mode:inherit" preload="auto" autoplay="" playsinline="" muted=""
+      loop="" poster="">
+      <source src="AdobeStock_126565154.mov" type="video/mp4">
+    </video>
+  </section>
+
+
+  <!---------- CONTAINER CONTAINER ----------------->
+  <div class="content-container">
+    <h2>GET IN TOUCH</h2>
+    <h4>Want to learn more about E-LONG? Send us a message and we'll get back to you as soon as possible.</h4>
+    <p>contact@sk84em.com</p>
+
+    <!-----FORM ------->
+    <div class="form-container">
+      <form action="/action_page.php">
+        <div class="row">
+          <div class="col-25">
+            <label for="fname">First Name*</label>
+          </div>
+          <div class="col-75">
+            <input type="text" id="fname" name="firstname" placeholder="Your name..">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-25">
+            <label for="lname">Last Name</label>
+          </div>
+          <div class="col-75">
+            <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-25">
+            <label for="mail">E-mail*</label>
+          </div>
+          <div class="col-75">
+            <input type="text" id="mail" name="mail" placeholder="Your e-mail..">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-25">
+            <label for="subject">Ticket*</label>
+          </div>
+          <div class="col-75">
+            <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+          </div>
+        </div>
+        <div class="row">
+          <input type="submit" value="Submit">
+        </div>
+      </form>
+    </div>
+    <!------------- END FORM ----------------->
+
+    <!------------- END CONTENT-CONTAINER ----------------------->
+  </div>
+  <!----------------------------------------------------------->
+
+
+
+
+
+</body>
+<script src="index.js"></script>
+
+</html>
